@@ -38,7 +38,7 @@
 
 ## 🐍 Watch My Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nate2898/nate2898.github.io/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/Nate2898/Nate2898/blob/output/github-snake.svg" alt="Snake Animation"/>
 </p>
 
 ## 🤝 Connect with Me
