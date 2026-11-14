@@ -59,4 +59,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram)](https://www.instagram.com/natedog2898/)
 </div>
 </div>
-](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
