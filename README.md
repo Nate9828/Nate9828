@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nate2898&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nate9828&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ## 🐍 Watch My Contributions
