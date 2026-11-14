@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nate9828&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nate9828&langs_count=4&theme=dark_github" alt="GitHub Stats"/>
 </p>
 
 ## 🐍 Watch My Contributions
